@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Frence Lord Christian A. Albarracin",
+      "age": 21,
+      "quote": "It does not matter how slowly you go as long as you do not stop. -Confucius"
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3B",
+      "code": "T230",
+      "email": "2000110562@student.buksu.edu.ph"
+    }
+  ]
+}
